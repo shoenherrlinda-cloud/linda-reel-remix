@@ -626,5 +626,146 @@
     "caption": "Working hard.",
     "thema": "Google Her Compilation",
     "has_burned_text": true
+  },
+  "r041": {
+    "peak1": [
+      0,
+      3
+    ],
+    "peak2": null,
+    "result": null,
+    "hook": "What I mean when I say I like sparkles",
+    "caption": "",
+    "thema": "Sparkles Sea Selfie",
+    "has_burned_text": true
+  },
+  "r042": {
+    "peak1": [
+      0,
+      3
+    ],
+    "peak2": [
+      5,
+      8
+    ],
+    "result": null,
+    "hook": "Greenscreen BTS Thank You",
+    "caption": "",
+    "thema": "Greenscreen Studio BTS",
+    "has_burned_text": true
+  },
+  "r043": {
+    "peak1": [
+      0,
+      3
+    ],
+    "peak2": null,
+    "result": null,
+    "hook": "Rich because younger me would be so proud",
+    "caption": "",
+    "thema": "Self Love Dinner Date",
+    "has_burned_text": true
+  },
+  "r044": {
+    "peak1": [
+      0,
+      3
+    ],
+    "peak2": [
+      6,
+      9
+    ],
+    "result": null,
+    "hook": "POV: du bist in deinen 30ern",
+    "caption": "",
+    "thema": "POV 30s Week Montage",
+    "has_burned_text": true
+  },
+  "r045": {
+    "peak1": [
+      0,
+      3
+    ],
+    "peak2": [
+      4,
+      7
+    ],
+    "result": null,
+    "hook": "Was machst du wenn die Selbständigkeit nicht klappt",
+    "caption": "",
+    "thema": "Selbständigkeit Compilation",
+    "has_burned_text": true
+  },
+  "r046": {
+    "peak1": [
+      0,
+      3
+    ],
+    "peak2": [
+      4,
+      7
+    ],
+    "result": null,
+    "hook": "How old are you? Me?...",
+    "caption": "",
+    "thema": "Age Question Meme Compilation",
+    "has_burned_text": true
+  },
+  "r047": {
+    "peak1": [
+      0,
+      3
+    ],
+    "peak2": [
+      5,
+      8
+    ],
+    "result": null,
+    "hook": "You made it. No, YOU made it.",
+    "caption": "",
+    "thema": "You Made It Childhood Career",
+    "has_burned_text": true
+  },
+  "r048": {
+    "peak1": [
+      0,
+      3
+    ],
+    "peak2": [
+      4,
+      7
+    ],
+    "result": null,
+    "hook": "Schick das an jemanden der lieber wandern gehen sollte",
+    "caption": "",
+    "thema": "Nature Hiking Compilation",
+    "has_burned_text": true
+  },
+  "r049": {
+    "peak1": [
+      0,
+      3
+    ],
+    "peak2": null,
+    "result": null,
+    "hook": "POV: Hat sie etwa einen echten Job?",
+    "caption": "",
+    "thema": "Stewardess Real Job POV",
+    "has_burned_text": true
+  },
+  "r050": {
+    "peak1": [
+      0,
+      3
+    ],
+    "peak2": [
+      4,
+      7
+    ],
+    "result": null,
+    "hook": "What do you want to be when you grow up?",
+    "caption": "",
+    "thema": "Growing Up Careers Elevator",
+    "has_burned_text": true
   }
 }
