@@ -26,5 +26,86 @@
   "caption": "Roter Teppich, Lederjacke, Glitzer und einfach losgehen. Manchmal reicht ein Walk, um sich richtig stark zu fühlen. Was ist dein Outfit, in dem du dich unaufhaltbar fühlst?",
   "thema": "Runway Walk Red Carpet",
   "gleiches_thema": []
+ },
+ "r003": {
+  "peak1": [
+   3,
+   6
+  ],
+  "peak2": null,
+  "result": null,
+  "hook": "Boss Mode: An",
+  "caption": "Blazer, Bluse, Attitude. Manchmal reicht ein Look, um sich unschlagbar zu fühlen. Was ist dein Power-Outfit?",
+  "thema": "Fashion Blazer Look",
+  "has_burned_text": false
+ },
+ "r005": {
+  "peak1": [
+   2,
+   5
+  ],
+  "peak2": null,
+  "result": null,
+  "hook": "Wenn Träume wahr werden",
+  "caption": "POV: Dein Traum wird wahr. 3 Jahre Vollzeit-Model und dieses Kleid fasst alles zusammen. Welcher Traum wurde dir schon erfüllt?",
+  "thema": "Dreams Come True Gown",
+  "has_burned_text": true
+ },
+ "r007": {
+  "peak1": [
+   0,
+   3
+  ],
+  "peak2": [
+   4,
+   7
+  ],
+  "result": null,
+  "hook": "Wen willst du beeindrucken?",
+  "caption": "Model, Make-up Artist, Polizistin, Barista, Kind. Ich war schon so viel. Die einzige Person, die ich beeindrucken will, bin ich selbst.",
+  "thema": "Who Are You Trying To Impress",
+  "has_burned_text": true
+ },
+ "r008": {
+  "peak1": [
+   0,
+   3
+  ],
+  "peak2": [
+   8,
+   11
+  ],
+  "result": null,
+  "hook": "So sieht Schauspiel aus",
+  "caption": "Wenn die Szene so intensiv ist, dass man vergisst zu atmen. Eine meiner Lieblings-Filmszenen als Polizistin. Schauspiel ist nicht spielen, es ist fühlen.",
+  "thema": "Acting Scene Police",
+  "has_burned_text": false
+ },
+ "r009": {
+  "peak1": [
+   1,
+   4
+  ],
+  "peak2": null,
+  "result": null,
+  "hook": "Keine Rache nötig",
+  "caption": "No revenge. Every time someone tried to kill my spark, god blessed me even more. Manchmal ist der beste Weg nach vorne einfach weiterzugehen.",
+  "thema": "No Revenge Walk",
+  "has_burned_text": true
+ },
+ "r010": {
+  "peak1": [
+   0,
+   3
+  ],
+  "peak2": [
+   5,
+   8
+  ],
+  "result": null,
+  "hook": "Behind the Scenes",
+  "caption": "Musikvideodreh und die beste Crew. Es geht nicht immer um das Ergebnis, sondern um die Menschen, mit denen du es erlebst.",
+  "thema": "Music Video BTS",
+  "has_burned_text": true
  }
 }
