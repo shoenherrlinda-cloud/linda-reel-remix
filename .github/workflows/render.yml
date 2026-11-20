@@ -1,0 +1,44 @@
+name: Remix rendern
+run-name: ${{ fromJSON(inputs.job).run }}
+on:
+  workflow_dispatch:
+    inputs:
+      job:
+        description: "Job-JSON (siehe render.py)"
+        required: true
+permissions:
+  contents: write
+concurrency:
+  group: remix-render
+  cancel-in-progress: false
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - name: ffmpeg und Whisper installieren
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+          pip install -q faster-whisper
+      - name: Whisper-Modell aus dem Cache
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: whisper-small-v1
+      - name: Job schreiben
+        env:
+          JOB: ${{ inputs.job }}
+        run: printf '%s' "$JOB" > job.json && python3 -c "import json;j=json.load(open('job.json'));print(j['run'], len(j['reels']), 'Reels')"
+      - name: Rendern
+        run: python3 render.py job.json out
+      - name: Als Release hochladen
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          RUN=$(python3 -c "import json;print(json.load(open('job.json'))['run'])")
+          TAG="remix-${RUN}-${GITHUB_RUN_ID}"
+          shopt -s nullglob
+          FILES=(out/*.mp4 out/*.jpg out/*.json)
+          gh release create "$TAG" "${FILES[@]}" --title "$TAG" --notes "Trial-Reel-Remix $RUN" --latest=false
+          echo "Release: $TAG"
