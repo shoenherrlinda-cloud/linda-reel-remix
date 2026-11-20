@@ -166,7 +166,13 @@ def analyse(src, rid, out_dir, info):
         try:
             from faster_whisper import WhisperModel
             model = WhisperModel("small", device="cpu", compute_type="int8")
-            segs, _ = model.transcribe(src, language="de", vad_filter=True)
+            import wave, numpy as np
+            wav = os.path.join(out_dir, f"{rid}_a.wav")
+            run(["ffmpeg", "-y", "-v", "error", "-i", src, "-vn", "-ac", "1", "-ar", "16000", "-f", "wav", wav])
+            with wave.open(wav) as w:
+                audio = np.frombuffer(w.readframes(w.getnframes()), dtype=np.int16).astype(np.float32) / 32768.0
+            os.remove(wav)
+            segs, _ = model.transcribe(audio, language="de", vad_filter=True)
             res["segmente"] = [[round(x.start, 2), round(x.end, 2), x.text.strip()] for x in segs]
             res["transcript"] = " ".join(x[2] for x in res["segmente"])
         except Exception as ex:
