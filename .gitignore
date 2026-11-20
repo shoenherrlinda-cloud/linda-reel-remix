@@ -1,2 +1,6 @@
+out/
+*_src.mp4
+job.json
+__pycache__/
 .gh-token
 *.jpg
