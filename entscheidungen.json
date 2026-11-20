@@ -1,111 +1,387 @@
 {
- "r001": {
-  "peak1": [
-   11.0,
-   14.0
-  ],
-  "peak2": [
-   37.0,
-   40.0
-  ],
-  "result": null,
-  "hook": "Lass dir deine Träume nicht klauen",
-  "caption": "Ich habe viele Berufe abgeschlossen und in vielen Konzernen gearbeitet, bevor ich meinen Weg gefunden habe. Lass dir von außen nicht einreden, was du kannst. Welchen Traum verfolgst du gerade?",
-  "thema": "Eigener Weg und Träume",
-  "gleiches_thema": [],
-  "quelle_transkript": "eingebrannte Untertitel (Whisper im ersten Analyse-Run fehlgeschlagen, inzwischen behoben)"
- },
- "r002": {
-  "peak1": [
-   2.0,
-   4.5
-  ],
-  "peak2": null,
-  "result": null,
-  "hook": "Runway Mode: An",
-  "caption": "Roter Teppich, Lederjacke, Glitzer und einfach losgehen. Manchmal reicht ein Walk, um sich richtig stark zu fühlen. Was ist dein Outfit, in dem du dich unaufhaltbar fühlst?",
-  "thema": "Runway Walk Red Carpet",
-  "gleiches_thema": []
- },
- "r003": {
-  "peak1": [
-   3,
-   6
-  ],
-  "peak2": null,
-  "result": null,
-  "hook": "Boss Mode: An",
-  "caption": "Blazer, Bluse, Attitude. Manchmal reicht ein Look, um sich unschlagbar zu fühlen. Was ist dein Power-Outfit?",
-  "thema": "Fashion Blazer Look",
-  "has_burned_text": false
- },
- "r005": {
-  "peak1": [
-   2,
-   5
-  ],
-  "peak2": null,
-  "result": null,
-  "hook": "Wenn Träume wahr werden",
-  "caption": "POV: Dein Traum wird wahr. 3 Jahre Vollzeit-Model und dieses Kleid fasst alles zusammen. Welcher Traum wurde dir schon erfüllt?",
-  "thema": "Dreams Come True Gown",
-  "has_burned_text": true
- },
- "r007": {
-  "peak1": [
-   0,
-   3
-  ],
-  "peak2": [
-   4,
-   7
-  ],
-  "result": null,
-  "hook": "Wen willst du beeindrucken?",
-  "caption": "Model, Make-up Artist, Polizistin, Barista, Kind. Ich war schon so viel. Die einzige Person, die ich beeindrucken will, bin ich selbst.",
-  "thema": "Who Are You Trying To Impress",
-  "has_burned_text": true
- },
- "r008": {
-  "peak1": [
-   0,
-   3
-  ],
-  "peak2": [
-   8,
-   11
-  ],
-  "result": null,
-  "hook": "So sieht Schauspiel aus",
-  "caption": "Wenn die Szene so intensiv ist, dass man vergisst zu atmen. Eine meiner Lieblings-Filmszenen als Polizistin. Schauspiel ist nicht spielen, es ist fühlen.",
-  "thema": "Acting Scene Police",
-  "has_burned_text": false
- },
- "r009": {
-  "peak1": [
-   1,
-   4
-  ],
-  "peak2": null,
-  "result": null,
-  "hook": "Keine Rache nötig",
-  "caption": "No revenge. Every time someone tried to kill my spark, god blessed me even more. Manchmal ist der beste Weg nach vorne einfach weiterzugehen.",
-  "thema": "No Revenge Walk",
-  "has_burned_text": true
- },
- "r010": {
-  "peak1": [
-   0,
-   3
-  ],
-  "peak2": [
-   5,
-   8
-  ],
-  "result": null,
-  "hook": "Behind the Scenes",
-  "caption": "Musikvideodreh und die beste Crew. Es geht nicht immer um das Ergebnis, sondern um die Menschen, mit denen du es erlebst.",
-  "thema": "Music Video BTS",
-  "has_burned_text": true
- }
+  "r001": {
+    "peak1": [
+      11.0,
+      14.0
+    ],
+    "peak2": [
+      37.0,
+      40.0
+    ],
+    "result": null,
+    "hook": "Lass dir deine Träume nicht klauen",
+    "caption": "Ich habe viele Berufe abgeschlossen und in vielen Konzernen gearbeitet, bevor ich meinen Weg gefunden habe. Lass dir von außen nicht einreden, was du kannst. Welchen Traum verfolgst du gerade?",
+    "thema": "Eigener Weg und Träume",
+    "gleiches_thema": [],
+    "quelle_transkript": "eingebrannte Untertitel (Whisper im ersten Analyse-Run fehlgeschlagen, inzwischen behoben)"
+  },
+  "r002": {
+    "peak1": [
+      2.0,
+      4.5
+    ],
+    "peak2": null,
+    "result": null,
+    "hook": "Runway Mode: An",
+    "caption": "Roter Teppich, Lederjacke, Glitzer und einfach losgehen. Manchmal reicht ein Walk, um sich richtig stark zu fühlen. Was ist dein Outfit, in dem du dich unaufhaltbar fühlst?",
+    "thema": "Runway Walk Red Carpet",
+    "gleiches_thema": []
+  },
+  "r003": {
+    "peak1": [
+      3,
+      6
+    ],
+    "peak2": null,
+    "result": null,
+    "hook": "Boss Mode: An",
+    "caption": "Blazer, Bluse, Attitude. Manchmal reicht ein Look, um sich unschlagbar zu fühlen. Was ist dein Power-Outfit?",
+    "thema": "Fashion Blazer Look",
+    "has_burned_text": false
+  },
+  "r005": {
+    "peak1": [
+      2,
+      5
+    ],
+    "peak2": null,
+    "result": null,
+    "hook": "Wenn Träume wahr werden",
+    "caption": "POV: Dein Traum wird wahr. 3 Jahre Vollzeit-Model und dieses Kleid fasst alles zusammen. Welcher Traum wurde dir schon erfüllt?",
+    "thema": "Dreams Come True Gown",
+    "has_burned_text": true
+  },
+  "r007": {
+    "peak1": [
+      0,
+      3
+    ],
+    "peak2": [
+      4,
+      7
+    ],
+    "result": null,
+    "hook": "Wen willst du beeindrucken?",
+    "caption": "Model, Make-up Artist, Polizistin, Barista, Kind. Ich war schon so viel. Die einzige Person, die ich beeindrucken will, bin ich selbst.",
+    "thema": "Who Are You Trying To Impress",
+    "has_burned_text": true
+  },
+  "r008": {
+    "peak1": [
+      0,
+      3
+    ],
+    "peak2": [
+      8,
+      11
+    ],
+    "result": null,
+    "hook": "So sieht Schauspiel aus",
+    "caption": "Wenn die Szene so intensiv ist, dass man vergisst zu atmen. Eine meiner Lieblings-Filmszenen als Polizistin. Schauspiel ist nicht spielen, es ist fühlen.",
+    "thema": "Acting Scene Police",
+    "has_burned_text": false
+  },
+  "r009": {
+    "peak1": [
+      1,
+      4
+    ],
+    "peak2": null,
+    "result": null,
+    "hook": "Keine Rache nötig",
+    "caption": "No revenge. Every time someone tried to kill my spark, god blessed me even more. Manchmal ist der beste Weg nach vorne einfach weiterzugehen.",
+    "thema": "No Revenge Walk",
+    "has_burned_text": true
+  },
+  "r010": {
+    "peak1": [
+      0,
+      3
+    ],
+    "peak2": [
+      5,
+      8
+    ],
+    "result": null,
+    "hook": "Behind the Scenes",
+    "caption": "Musikvideodreh und die beste Crew. Es geht nicht immer um das Ergebnis, sondern um die Menschen, mit denen du es erlebst.",
+    "thema": "Music Video BTS",
+    "has_burned_text": true
+  },
+  "r011": {
+    "peak1": [
+      0,
+      3
+    ],
+    "peak2": null,
+    "result": null,
+    "hook": "POV: 80% deines Jobs #Traveling",
+    "caption": "Wenn der Flughafen dein zweites Zuhause ist...",
+    "thema": "Model Life Travel POV",
+    "has_burned_text": true
+  },
+  "r012": {
+    "peak1": [
+      0,
+      3
+    ],
+    "peak2": [
+      10,
+      13
+    ],
+    "result": null,
+    "hook": "InStyle Sport Lounge",
+    "caption": "Behind the Scenes bei der InStyle Sport Lounge",
+    "thema": "InStyle Sport Lounge Event",
+    "has_burned_text": false
+  },
+  "r013": {
+    "peak1": [
+      0,
+      3
+    ],
+    "peak2": [
+      8,
+      11
+    ],
+    "result": null,
+    "hook": "This or That",
+    "caption": "Meine Antworten zum This or That Trend",
+    "thema": "This or That Trend",
+    "has_burned_text": true
+  },
+  "r014": {
+    "peak1": [
+      0,
+      3
+    ],
+    "peak2": [
+      6,
+      9
+    ],
+    "result": null,
+    "hook": "Instagram vs Reality",
+    "caption": "So sieht das wirklich aus...",
+    "thema": "Instagram vs Reality Pool",
+    "has_burned_text": true
+  },
+  "r015": {
+    "peak1": [
+      0,
+      3
+    ],
+    "peak2": [
+      5,
+      8
+    ],
+    "result": null,
+    "hook": "Deine Social Media ist nicht für deine Freunde",
+    "caption": "Social Media ist für dich selbst.",
+    "thema": "Social Media Motivation",
+    "has_burned_text": true
+  },
+  "r016": {
+    "peak1": [
+      0,
+      3
+    ],
+    "peak2": [
+      5,
+      8
+    ],
+    "result": null,
+    "hook": "Mach weniger Trend, mehr dich",
+    "caption": "Weniger Trend, mehr du selbst.",
+    "thema": "Be Yourself Greenhouse",
+    "has_burned_text": true
+  },
+  "r017": {
+    "peak1": [
+      0,
+      3
+    ],
+    "peak2": [
+      15,
+      18
+    ],
+    "result": null,
+    "hook": "Espresso Martini Club",
+    "caption": "Hinter den Kulissen unserer Content Creation",
+    "thema": "Content Creation BTS Talk",
+    "has_burned_text": false
+  },
+  "r018": {
+    "peak1": [
+      0,
+      3
+    ],
+    "peak2": null,
+    "result": null,
+    "hook": "Meine essentiellen Aufgaben",
+    "caption": "Was es wirklich braucht im Modelbusiness",
+    "thema": "Model Life Essential Tasks",
+    "has_burned_text": true
+  },
+  "r019": {
+    "peak1": [
+      0,
+      3
+    ],
+    "peak2": [
+      15,
+      18
+    ],
+    "result": null,
+    "hook": "Produktentdeckung auf dem Balkon",
+    "caption": "Was wir auf dem Balkon entdeckt haben",
+    "thema": "Balcony Product Discovery",
+    "has_burned_text": false
+  },
+  "r020": {
+    "peak1": [
+      0,
+      3
+    ],
+    "peak2": null,
+    "result": null,
+    "hook": "Von einer starken Frau großgezogen",
+    "caption": "Für alle, die von starken Frauen großgezogen wurden",
+    "thema": "Strong Women POV",
+    "has_burned_text": true
+  },
+  "r021": {
+    "peak1": [
+      0,
+      3
+    ],
+    "peak2": [
+      4,
+      7
+    ],
+    "result": null,
+    "hook": "After all - I became a model",
+    "caption": "Manchmal werden Träume wahr.",
+    "thema": "Model Dream Gown",
+    "has_burned_text": true
+  },
+  "r022": {
+    "peak1": [
+      0,
+      3
+    ],
+    "peak2": [
+      5,
+      8
+    ],
+    "result": null,
+    "hook": "SOFLY Studio Vibes",
+    "caption": "Behind the Scenes im Studio",
+    "thema": "SOFLY Studio BTS",
+    "has_burned_text": true
+  },
+  "r023": {
+    "peak1": [
+      0,
+      3
+    ],
+    "peak2": null,
+    "result": null,
+    "hook": "Happy Vibes Packung",
+    "caption": "Für alle, die gerade einen schlechten Tag haben",
+    "thema": "Happy Vibes Cherry Blossoms",
+    "has_burned_text": true
+  },
+  "r024": {
+    "peak1": [
+      0,
+      3
+    ],
+    "peak2": null,
+    "result": null,
+    "hook": "Akku in der Natur aufladen",
+    "caption": "Wenn du am See aufgewachsen bist, verstehst du das",
+    "thema": "Nature Recharge",
+    "has_burned_text": true
+  },
+  "r025": {
+    "peak1": [
+      0,
+      3
+    ],
+    "peak2": [
+      4,
+      7
+    ],
+    "result": null,
+    "hook": "Acting Scene",
+    "caption": "Schauspiel trifft Fashion",
+    "thema": "Acting Elevator Scene",
+    "has_burned_text": false
+  },
+  "r026": {
+    "peak1": [
+      0,
+      3
+    ],
+    "peak2": [
+      6,
+      9
+    ],
+    "result": null,
+    "hook": "Be a bee, not a butterfly",
+    "caption": "Du musst nicht jedem gefallen.",
+    "thema": "Be a Bee Motivation",
+    "has_burned_text": true
+  },
+  "r027": {
+    "peak1": [
+      0,
+      3
+    ],
+    "peak2": null,
+    "result": null,
+    "hook": "When someone asks how old I am",
+    "caption": "36 Grad im Schatten, ageless im Pool",
+    "thema": "Age Question Pool",
+    "has_burned_text": true
+  },
+  "r028": {
+    "peak1": [
+      0,
+      3
+    ],
+    "peak2": null,
+    "result": null,
+    "hook": "Stop worrying about boring people",
+    "caption": "Hör auf, dir Sorgen zu machen.",
+    "thema": "Stop Worrying Stairs",
+    "has_burned_text": true
+  },
+  "r029": {
+    "peak1": [
+      0,
+      3
+    ],
+    "peak2": [
+      4,
+      7
+    ],
+    "result": null,
+    "hook": "Funny and pretty",
+    "caption": "Lucky for you, I am both.",
+    "thema": "Funny Girl Pretty Girl",
+    "has_burned_text": true
+  },
+  "r030": {
+    "peak1": [
+      0,
+      3
+    ],
+    "peak2": null,
+    "result": null,
+    "hook": "Be present this summer",
+    "caption": "In 20 Jahren wirst du froh sein.",
+    "thema": "Be Present Summer",
+    "has_burned_text": true
+  }
 }
