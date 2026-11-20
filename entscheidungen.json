@@ -383,5 +383,248 @@
     "caption": "In 20 Jahren wirst du froh sein.",
     "thema": "Be Present Summer",
     "has_burned_text": true
+  },
+  "r031": {
+    "peak1": [
+      0,
+      3
+    ],
+    "peak2": null,
+    "result": null,
+    "hook": "Was nicht für dich bestimmt ist",
+    "caption": "Was nicht für dich bestimmt ist, wird dich enttäuschen, bis du es verstehst.",
+    "thema": "Not Meant For You Car",
+    "has_burned_text": true
+  },
+  "r032": {
+    "peak1": [
+      0,
+      3
+    ],
+    "peak2": null,
+    "result": null,
+    "hook": "30-Grad-Wäsche bei 36 Grad",
+    "caption": "Frag für nen Freund.",
+    "thema": "Laundry Pool Joke",
+    "has_burned_text": true
+  },
+  "r033": {
+    "peak1": [
+      0,
+      3
+    ],
+    "peak2": [
+      4,
+      7
+    ],
+    "result": null,
+    "hook": "Same dreamer. Bigger vision.",
+    "caption": "Gleicher Traum, größere Vision.",
+    "thema": "Same Dreamer Harbor Fashion",
+    "has_burned_text": true
+  },
+  "r034": {
+    "peak1": [
+      0,
+      3
+    ],
+    "peak2": [
+      4,
+      7
+    ],
+    "result": null,
+    "hook": "Schokofleck vs Energie",
+    "caption": "Gleicher Mensch, unterschiedliche Vibes.",
+    "thema": "Chocolate Stain Energy",
+    "has_burned_text": true
+  },
+  "r035": {
+    "peak1": [
+      0,
+      3
+    ],
+    "peak2": [
+      4,
+      7
+    ],
+    "result": null,
+    "hook": "Don't put me in boxes",
+    "caption": "Ich blühe dort, wo ich geliebt werde.",
+    "thema": "No Boxes Swimming",
+    "has_burned_text": true
+  },
+  "r036": {
+    "peak1": [
+      0,
+      3
+    ],
+    "peak2": [
+      5,
+      8
+    ],
+    "result": null,
+    "hook": "Selbstkritik ist kein Rückschritt",
+    "caption": "Sie ist die Abkürzung zur nächsten Version deiner selbst.",
+    "thema": "Self Criticism BTS",
+    "has_burned_text": true
+  },
+  "r037": {
+    "peak1": [
+      0,
+      3
+    ],
+    "peak2": [
+      4,
+      7
+    ],
+    "result": null,
+    "hook": "Ariel left this for a man",
+    "caption": "Mermaid Life.",
+    "thema": "Ariel Boat Swimming",
+    "has_burned_text": true
+  },
+  "r038": {
+    "peak1": [
+      0,
+      3
+    ],
+    "peak2": [
+      4,
+      7
+    ],
+    "result": null,
+    "hook": "Girls are so dramatic",
+    "caption": "Wannabe intensifies.",
+    "thema": "Dramatic Girls Wannabe",
+    "has_burned_text": true
+  },
+  "r039": {
+    "peak1": [
+      0,
+      3
+    ],
+    "peak2": [
+      10,
+      13
+    ],
+    "result": null,
+    "hook": "No rich parents. Just love.",
+    "caption": "Pocket full of love.",
+    "thema": "No Rich Parents Studio",
+    "has_burned_text": true
+  },
+  "r040": {
+    "peak1": [
+      0,
+      3
+    ],
+    "peak2": null,
+    "result": null,
+    "hook": "Brief vom Finanzamt",
+    "caption": "Acting Level: Steuererklärung.",
+    "thema": "Finanzamt Acting",
+    "has_burned_text": true
+  },
+  "r051": {
+    "peak1": [
+      0,
+      3
+    ],
+    "peak2": [
+      5,
+      8
+    ],
+    "result": null,
+    "hook": "Ready for takeoff",
+    "caption": "Life Vest under Seat.",
+    "thema": "Stewardess Ready Takeoff",
+    "has_burned_text": true
+  },
+  "r052": {
+    "peak1": [
+      0,
+      3
+    ],
+    "peak2": [
+      5,
+      8
+    ],
+    "result": null,
+    "hook": "Good morning Motivation",
+    "caption": "Deine To-Do-Liste für heute.",
+    "thema": "Morning Motivation Selfie",
+    "has_burned_text": true
+  },
+  "r053": {
+    "peak1": [
+      0,
+      3
+    ],
+    "peak2": [
+      5,
+      8
+    ],
+    "result": null,
+    "hook": "Things that matter",
+    "caption": "Was wirklich zählt.",
+    "thema": "Things That Matter Blazer",
+    "has_burned_text": true
+  },
+  "r054": {
+    "peak1": [
+      0,
+      2
+    ],
+    "peak2": null,
+    "result": null,
+    "hook": "Pony Vibes",
+    "caption": "Kleine Pferde, großes Herz.",
+    "thema": "Horse Riding Moment",
+    "has_burned_text": false
+  },
+  "r055": {
+    "peak1": [
+      0,
+      3
+    ],
+    "peak2": [
+      5,
+      8
+    ],
+    "result": null,
+    "hook": "Childhood Memories",
+    "caption": "Als alles noch einfacher war.",
+    "thema": "Childhood Nostalgia",
+    "has_burned_text": false
+  },
+  "r056": {
+    "peak1": [
+      0,
+      3
+    ],
+    "peak2": [
+      5,
+      8
+    ],
+    "result": null,
+    "hook": "6.000 Fuß... äh, Follower",
+    "caption": "Bitte anschnallen.",
+    "thema": "Stewardess Follower Joke",
+    "has_burned_text": true
+  },
+  "r057": {
+    "peak1": [
+      0,
+      3
+    ],
+    "peak2": [
+      5,
+      8
+    ],
+    "result": null,
+    "hook": "Just google her",
+    "caption": "Working hard.",
+    "thema": "Google Her Compilation",
+    "has_burned_text": true
   }
 }
