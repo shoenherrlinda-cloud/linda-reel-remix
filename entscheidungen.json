@@ -1,12 +1,30 @@
 {
  "r001": {
-  "peak1": [11.0, 14.0],
-  "peak2": [37.0, 40.0],
+  "peak1": [
+   11.0,
+   14.0
+  ],
+  "peak2": [
+   37.0,
+   40.0
+  ],
   "result": null,
   "hook": "Lass dir deine Träume nicht klauen",
   "caption": "Ich habe viele Berufe abgeschlossen und in vielen Konzernen gearbeitet, bevor ich meinen Weg gefunden habe. Lass dir von außen nicht einreden, was du kannst. Welchen Traum verfolgst du gerade?",
   "thema": "Eigener Weg und Träume",
   "gleiches_thema": [],
   "quelle_transkript": "eingebrannte Untertitel (Whisper im ersten Analyse-Run fehlgeschlagen, inzwischen behoben)"
+ },
+ "r002": {
+  "peak1": [
+   2.0,
+   4.5
+  ],
+  "peak2": null,
+  "result": null,
+  "hook": "Runway Mode: An",
+  "caption": "Roter Teppich, Lederjacke, Glitzer und einfach losgehen. Manchmal reicht ein Walk, um sich richtig stark zu fühlen. Was ist dein Outfit, in dem du dich unaufhaltbar fühlst?",
+  "thema": "Runway Walk Red Carpet",
+  "gleiches_thema": []
  }
 }
