@@ -1,0 +1,461 @@
+{
+ "reels": [
+  {
+   "id": "r001",
+   "datei": "2025-11 18063294713168898.mp4",
+   "datum": "2025-11",
+   "dauer": 45.11,
+   "ton": true,
+   "status": "offen"
+  },
+  {
+   "id": "r002",
+   "datei": "2025-11 18384049561199388.mp4",
+   "datum": "2025-11",
+   "dauer": 5.18,
+   "ton": true,
+   "status": "offen"
+  },
+  {
+   "id": "r003",
+   "datei": "2025-12 18107216512640120.mp4",
+   "datum": "2025-12",
+   "dauer": 11.1,
+   "ton": true,
+   "status": "offen"
+  },
+  {
+   "id": "r004",
+   "datei": "2025-12 18117573625505362.mp4",
+   "datum": "2025-12",
+   "dauer": 14.72,
+   "ton": false,
+   "status": "offen"
+  },
+  {
+   "id": "r005",
+   "datei": "2025-12 18185537524353098.mp4",
+   "datum": "2025-12",
+   "dauer": 7.43,
+   "ton": true,
+   "status": "offen"
+  },
+  {
+   "id": "r006",
+   "datei": "2026-01 18084327029132838.mp4",
+   "datum": "2026-01",
+   "dauer": 233.87,
+   "ton": true,
+   "status": "übersprungen",
+   "grund": "Dauer 233.9s außerhalb 4 bis 176 s"
+  },
+  {
+   "id": "r007",
+   "datei": "2026-02 18070596869644655.mp4",
+   "datum": "2026-02",
+   "dauer": 7.43,
+   "ton": true,
+   "status": "offen"
+  },
+  {
+   "id": "r008",
+   "datei": "2026-02 18078243248071203.mp4",
+   "datum": "2026-02",
+   "dauer": 112.73,
+   "ton": true,
+   "status": "offen"
+  },
+  {
+   "id": "r009",
+   "datei": "2026-02 18352286176225090.mp4",
+   "datum": "2026-02",
+   "dauer": 4.74,
+   "ton": true,
+   "status": "offen"
+  },
+  {
+   "id": "r010",
+   "datei": "2026-04 17860871352682658.mp4",
+   "datum": "2026-04",
+   "dauer": 10.79,
+   "ton": true,
+   "status": "offen"
+  },
+  {
+   "id": "r011",
+   "datei": "2026-04 17966017464069715.mp4",
+   "datum": "2026-04",
+   "dauer": 6.75,
+   "ton": true,
+   "status": "offen"
+  },
+  {
+   "id": "r012",
+   "datei": "2026-04 18003078773728709.mp4",
+   "datum": "2026-04",
+   "dauer": 50.8,
+   "ton": true,
+   "status": "offen"
+  },
+  {
+   "id": "r013",
+   "datei": "2026-04 18009076028896326.mp4",
+   "datum": "2026-04",
+   "dauer": 32.6,
+   "ton": true,
+   "status": "offen"
+  },
+  {
+   "id": "r014",
+   "datei": "2026-04 18103456384938531.mp4",
+   "datum": "2026-04",
+   "dauer": 26.17,
+   "ton": true,
+   "status": "offen"
+  },
+  {
+   "id": "r015",
+   "datei": "2026-04 18114891754742381.mp4",
+   "datum": "2026-04",
+   "dauer": 21.38,
+   "ton": true,
+   "status": "offen"
+  },
+  {
+   "id": "r016",
+   "datei": "2026-04 18119136124565016.mp4",
+   "datum": "2026-04",
+   "dauer": 20.11,
+   "ton": true,
+   "status": "offen"
+  },
+  {
+   "id": "r017",
+   "datei": "2026-04 18134581438542760.mp4",
+   "datum": "2026-04",
+   "dauer": 59.72,
+   "ton": true,
+   "status": "offen"
+  },
+  {
+   "id": "r018",
+   "datei": "2026-04 18174180094396573.mp4",
+   "datum": "2026-04",
+   "dauer": 12.35,
+   "ton": true,
+   "status": "offen"
+  },
+  {
+   "id": "r019",
+   "datei": "2026-05 17891078400500143.mp4",
+   "datum": "2026-05",
+   "dauer": 61.67,
+   "ton": true,
+   "status": "offen"
+  },
+  {
+   "id": "r020",
+   "datei": "2026-05 17984739246003370.mp4",
+   "datum": "2026-05",
+   "dauer": 9.4,
+   "ton": true,
+   "status": "offen"
+  },
+  {
+   "id": "r021",
+   "datei": "2026-05 18100450403014418.mp4",
+   "datum": "2026-05",
+   "dauer": 14.79,
+   "ton": true,
+   "status": "offen"
+  },
+  {
+   "id": "r022",
+   "datei": "2026-05 18114215677869620.mp4",
+   "datum": "2026-05",
+   "dauer": 18.67,
+   "ton": true,
+   "status": "offen"
+  },
+  {
+   "id": "r023",
+   "datei": "2026-05 18438298900141770.mp4",
+   "datum": "2026-05",
+   "dauer": 10.47,
+   "ton": true,
+   "status": "offen"
+  },
+  {
+   "id": "r024",
+   "datei": "2026-05 18445278496140720.mp4",
+   "datum": "2026-05",
+   "dauer": 14.51,
+   "ton": true,
+   "status": "offen"
+  },
+  {
+   "id": "r025",
+   "datei": "2026-06 17852215305695301.mp4",
+   "datum": "2026-06",
+   "dauer": 15.14,
+   "ton": true,
+   "status": "offen"
+  },
+  {
+   "id": "r026",
+   "datei": "2026-06 17974698447060640.mp4",
+   "datum": "2026-06",
+   "dauer": 26.33,
+   "ton": true,
+   "status": "offen"
+  },
+  {
+   "id": "r027",
+   "datei": "2026-06 18026414870836576.mp4",
+   "datum": "2026-06",
+   "dauer": 6.75,
+   "ton": true,
+   "status": "offen"
+  },
+  {
+   "id": "r028",
+   "datei": "2026-06 18085922063141996.mp4",
+   "datum": "2026-06",
+   "dauer": 7.52,
+   "ton": true,
+   "status": "offen"
+  },
+  {
+   "id": "r029",
+   "datei": "2026-06 18107945443779969.mp4",
+   "datum": "2026-06",
+   "dauer": 16.3,
+   "ton": true,
+   "status": "offen"
+  },
+  {
+   "id": "r030",
+   "datei": "2026-06 18136527322560296.mp4",
+   "datum": "2026-06",
+   "dauer": 11.54,
+   "ton": true,
+   "status": "offen"
+  },
+  {
+   "id": "r031",
+   "datei": "2026-06 18139995445551877.mp4",
+   "datum": "2026-06",
+   "dauer": 8.1,
+   "ton": true,
+   "status": "offen"
+  },
+  {
+   "id": "r032",
+   "datei": "2026-06 18463893874106760.mp4",
+   "datum": "2026-06",
+   "dauer": 6.68,
+   "ton": true,
+   "status": "offen"
+  },
+  {
+   "id": "r033",
+   "datei": "2026-07 17989184208033753.mp4",
+   "datum": "2026-07",
+   "dauer": 10.12,
+   "ton": true,
+   "status": "offen"
+  },
+  {
+   "id": "r034",
+   "datei": "2026-07 18109125991805222.mp4",
+   "datum": "2026-07",
+   "dauer": 11.52,
+   "ton": true,
+   "status": "offen"
+  },
+  {
+   "id": "r035",
+   "datei": "2026-07 18119286331895278.mp4",
+   "datum": "2026-07",
+   "dauer": 10.52,
+   "ton": true,
+   "status": "offen"
+  },
+  {
+   "id": "r036",
+   "datei": "2026-07 18130317661728180.mp4",
+   "datum": "2026-07",
+   "dauer": 9.49,
+   "ton": true,
+   "status": "offen"
+  },
+  {
+   "id": "r037",
+   "datei": "2026-07 18597864628006815.mp4",
+   "datum": "2026-07",
+   "dauer": 8.57,
+   "ton": true,
+   "status": "offen"
+  },
+  {
+   "id": "r038",
+   "datei": "2026-08 17895187968661353.mp4",
+   "datum": "2026-08",
+   "dauer": 9.29,
+   "ton": true,
+   "status": "offen"
+  },
+  {
+   "id": "r039",
+   "datei": "2026-08 18326295559277783.mp4",
+   "datum": "2026-08",
+   "dauer": 45.04,
+   "ton": true,
+   "status": "offen"
+  },
+  {
+   "id": "r040",
+   "datei": "2026-09 17893499778415134.mp4",
+   "datum": "2026-09",
+   "dauer": 4.67,
+   "ton": true,
+   "status": "offen"
+  },
+  {
+   "id": "r041",
+   "datei": "2026-09 17948273103315334.mp4",
+   "datum": "2026-09",
+   "dauer": 6.27,
+   "ton": true,
+   "status": "offen"
+  },
+  {
+   "id": "r042",
+   "datei": "2026-09 17963460858190199.mp4",
+   "datum": "2026-09",
+   "dauer": 9.17,
+   "ton": true,
+   "status": "offen"
+  },
+  {
+   "id": "r043",
+   "datei": "2026-10 17990998614060533.mp4",
+   "datum": "2026-10",
+   "dauer": 6.89,
+   "ton": true,
+   "status": "offen"
+  },
+  {
+   "id": "r044",
+   "datei": "2026-10 18039284825835162.mp4",
+   "datum": "2026-10",
+   "dauer": 13.19,
+   "ton": true,
+   "status": "offen"
+  },
+  {
+   "id": "r045",
+   "datei": "2026-10 18081450167341100.mp4",
+   "datum": "2026-10",
+   "dauer": 23.68,
+   "ton": true,
+   "status": "offen"
+  },
+  {
+   "id": "r046",
+   "datei": "2026-10 18090251354694941.mp4",
+   "datum": "2026-10",
+   "dauer": 25.26,
+   "ton": true,
+   "status": "offen"
+  },
+  {
+   "id": "r047",
+   "datei": "2026-10 18104173652369732.mp4",
+   "datum": "2026-10",
+   "dauer": 23.68,
+   "ton": true,
+   "status": "offen"
+  },
+  {
+   "id": "r048",
+   "datei": "2026-10 18104333582366036.mp4",
+   "datum": "2026-10",
+   "dauer": 10.1,
+   "ton": true,
+   "status": "offen"
+  },
+  {
+   "id": "r049",
+   "datei": "2026-10 18112576039852192.mp4",
+   "datum": "2026-10",
+   "dauer": 6.13,
+   "ton": true,
+   "status": "offen"
+  },
+  {
+   "id": "r050",
+   "datei": "2026-10 18130480118498217.mp4",
+   "datum": "2026-10",
+   "dauer": 13.65,
+   "ton": true,
+   "status": "offen"
+  },
+  {
+   "id": "r051",
+   "datei": "2026-10 18134718766572383.mp4",
+   "datum": "2026-10",
+   "dauer": 13.54,
+   "ton": true,
+   "status": "offen"
+  },
+  {
+   "id": "r052",
+   "datei": "2026-10 18179153044433680.mp4",
+   "datum": "2026-10",
+   "dauer": 10.24,
+   "ton": true,
+   "status": "offen"
+  },
+  {
+   "id": "r053",
+   "datei": "2026-10 18230883970328529.mp4",
+   "datum": "2026-10",
+   "dauer": 13.0,
+   "ton": true,
+   "status": "offen"
+  },
+  {
+   "id": "r054",
+   "datei": "2026-11 17954849433298569.mp4",
+   "datum": "2026-11",
+   "dauer": 4.13,
+   "ton": true,
+   "status": "offen"
+  },
+  {
+   "id": "r055",
+   "datei": "2026-11 18026063291710753.mp4",
+   "datum": "2026-11",
+   "dauer": 24.12,
+   "ton": true,
+   "status": "offen"
+  },
+  {
+   "id": "r056",
+   "datei": "2026-11 18115805210132891.mp4",
+   "datum": "2026-11",
+   "dauer": 13.02,
+   "ton": true,
+   "status": "offen"
+  },
+  {
+   "id": "r057",
+   "datei": "2026-11 18139938973651116.mp4",
+   "datum": "2026-11",
+   "dauer": 12.35,
+   "ton": true,
+   "status": "offen"
+  }
+ ]
+}
